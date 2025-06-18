@@ -24,6 +24,7 @@ It utilizes a custom Convolutional Neural Network (CNN) model and a MobileNetV2-
 - Others: NumPy, Matplotlib, Seaborn
 
 📝 How to Run Locally
+
 Clone the repository: 
 git clone https://github.com/yourusername/brain-tumor-classifier.git 
 cd brain-tumor-classifier
