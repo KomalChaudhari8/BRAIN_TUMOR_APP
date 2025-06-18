@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Prediction: <span>{{ prediction }}</span></h2>
+        <img src="{{ url_for('static', filename=image_path.split('/')[-1]) }}" alt="MRI Image">
+        <a href="/">Back</a>
+    </div>
+</body>
+</html>
