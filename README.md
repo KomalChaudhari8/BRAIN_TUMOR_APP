@@ -26,16 +26,13 @@ It utilizes a custom Convolutional Neural Network (CNN) model and a MobileNetV2-
 📝 How to Run Locally
 
 Clone the repository: 
-
 git clone https://github.com/yourusername/brain-tumor-classifier.git 
 cd brain-tumor-classifier
 
 Install dependencies: 
-
 pip install -r requirements.txt
 
 Run the Flask app: 
-
 python app.py
 
 Open http://127.0.0.1:5000 in your browser.
