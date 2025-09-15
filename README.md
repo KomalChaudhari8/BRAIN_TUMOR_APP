@@ -27,7 +27,7 @@ It utilizes a custom Convolutional Neural Network (CNN) model and a MobileNetV2-
 
 Clone the repository: 
 git clone https://github.com/KomalChaudhari8/BRAIN_TUMOR_APP.git 
-cd brain-tumor-classifier
+cd BRAIN_TUMOR_APP
 
 Install dependencies: 
 pip install -r requirements.txt
